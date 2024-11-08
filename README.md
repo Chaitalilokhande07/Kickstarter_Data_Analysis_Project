@@ -63,7 +63,7 @@ To download the datasets, please visit: [https://drive.google.com/file/d/1NjpBq3
      - Percentage of Successful Projects by Year, Month, etc.  
      - Percentage of Successful Projects by Goal Range (choose your own goal ranges)
 
-### Getting Started:
+# Getting Started:
 
 To run this project locally, follow these steps:
 
@@ -76,6 +76,6 @@ To run this project locally, follow these steps:
 3. **View the Dashboards**:  
    - Open the dashboards in Excel, Power BI, or Tableau to explore and interact with the data.
 
-### Contributing:
+# Contributing:
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to create a pull request or open an issue.
